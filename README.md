@@ -6,12 +6,12 @@ URL/Domain/IP Blacklist and IP Block for Content Filters and Firewalls
 	<colgroup width="132"></colgroup>
 	<colgroup width="136"></colgroup>
 	<colgroup width="716"></colgroup>
-	<colgroup width="794"></colgroup>
+	
 	<tr>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="24" align="left"><b><font face="Nimbus Roman No9 L" size=3>Category</b></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><b><font face="Nimbus Roman No9 L" size=3>Kategori </b></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><b><font face="Nimbus Roman No9 L" size=3>Açıklama </b></td>
-		<td ><br></td>
+		
 	</tr>
 	<tr>
 		<td >abortion</td>
