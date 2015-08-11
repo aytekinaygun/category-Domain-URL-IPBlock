@@ -14,7 +14,7 @@ URL/Domain/IP Blacklist and IP Block for Content Filters and Firewalls
 		
 	</tr>
 	<tr>
-		<td >phishing</td>
+		<td >zararli</td>
 		<td >zararli</td>
 		<td >Zararlı kod bulaştıran siteler.</td>
 		
