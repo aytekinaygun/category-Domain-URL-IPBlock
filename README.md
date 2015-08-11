@@ -15,8 +15,8 @@ URL/Domain/IP Blacklist and IP Block for Content Filters and Firewalls
 	</tr>
 	<tr>
 		<td >phishing</td>
-		<td >avlama</td>
-		<td >Avlama yöntemi ile zararlı kod bulaştıran siteler.</td>
+		<td >zararli</td>
+		<td >Zararlı kod bulaştıran siteler.</td>
 		
 	</tr>
 	<tr>
